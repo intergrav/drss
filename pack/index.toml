@@ -45,6 +45,14 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
+file = "config/yosbr/config/styledplayerlist/config.json"
+hash = "2b6e8b2e66eb2dc79143666152b05e1e8a61280f36902ed96d87029c10c81459"
+
+[[files]]
+file = "config/yosbr/config/styledplayerlist/styles/default.json"
+hash = "d714876241ab91cd988faf51669d16ac96ded6210948bedfa43a556d273dd033"
+
+[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
