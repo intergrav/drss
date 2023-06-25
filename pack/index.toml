@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "4b097f08a7dcb8d18015dc5d540b9f1d3a581012b9516abccfde30dcc764404e"
+
+[[files]]
+file = "config/mod-loading-screen/readme.txt"
+hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
@@ -31,14 +39,6 @@ hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
-
-[[files]]
-file = "config/yosbr/config/mod-loading-screen/background.png"
-hash = "4b097f08a7dcb8d18015dc5d540b9f1d3a581012b9516abccfde30dcc764404e"
-
-[[files]]
-file = "config/yosbr/config/mod-loading-screen/readme.txt"
-hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -110,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "1c446e3d4c73d31e94a2976e2864d037905e36f2086c8a9fa8c124e3a7680d6e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4f6fbbae9d8f5cb6db33e33557dd5fcf0e4653f0cc94f89eebefb7124a721164"
 metafile = true
 
 [[files]]
