@@ -29,6 +29,14 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/mod-loading-screen/background.png"
+hash = "f74218d56e4c22471f56d86854a81f2592f96bb548ee1a7348ff8a83a024902d"
+
+[[files]]
+file = "config/yosbr/config/mod-loading-screen/readme.txt"
+hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
