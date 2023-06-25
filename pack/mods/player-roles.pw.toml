@@ -1,0 +1,13 @@
+name = "Player Roles"
+filename = "player-roles-1.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/1.6.1/player-roles-1.6.1.jar"
+hash-format = "sha1"
+hash = "40cfdf43678e0a19acb700a1112b4781f6596a94"
+
+[update]
+[update.modrinth]
+mod-id = "Rt1mrUHm"
+version = "7Em0LkGO"
