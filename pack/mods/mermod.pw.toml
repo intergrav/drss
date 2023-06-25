@@ -1,0 +1,13 @@
+name = "Mermod"
+filename = "mermod-fabric-2.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ORiydwz3/versions/MgfOn37G/mermod-fabric-2.21.jar"
+hash-format = "sha1"
+hash = "48f71db8520a38335a783123dd7485e27c9f2fd2"
+
+[update]
+[update.modrinth]
+mod-id = "ORiydwz3"
+version = "MgfOn37G"

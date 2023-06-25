@@ -216,6 +216,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/mermod.pw.toml"
+hash = "490289b5fcace33aee61a6420f7a319bc0070c0b179b390b28dcd89c1ca0bffb"
+metafile = true
+
+[[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "3bf233daa8d14c6888240260f25d81a01e797b45528030a5985730b58f0a5c45"
 metafile = true
