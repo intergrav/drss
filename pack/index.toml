@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "a1c33d8c55a535adf0bfc25bec6ae2e2a62b9fdf37a836818468d18428a85723"
+hash = "cc034c8f6adc9c900a9e581cfbc3db0e4126c48122e18fa43fd6b1bc9e0f53d4"
 metafile = true
 
 [[files]]
@@ -238,12 +238,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+hash = "4f611e2df3bc19bc61197953e67fdcd6552162eeb69debd047ee12c3fc4bd535"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+hash = "ad654a871e581419fd5253b2a18248835d6adf8683b06205bd55e52881a445ab"
 metafile = true
 
 [[files]]
