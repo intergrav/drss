@@ -101,11 +101,6 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
-metafile = true
-
-[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
 metafile = true
@@ -128,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
 metafile = true
 
 [[files]]
@@ -298,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "03191d93838921d6267303721f3b769bb338f6baf5089af61f47c8bf09fdd088"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "9bf22e5ccefaab2977914c67822210db3167885528bf233c2c6cfec9732a6e08"
 metafile = true
 
 [[files]]
