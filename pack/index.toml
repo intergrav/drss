@@ -151,6 +151,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c79039a1cf16350cfed1792e1b2bb7e6a01b0a81492c8a8aa5c4fbf53b4c4b00"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
 metafile = true
