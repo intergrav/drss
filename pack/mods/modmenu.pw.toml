@@ -11,3 +11,8 @@ hash = "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
 [update.modrinth]
 mod-id = "mOgUt4GM"
 version = "gSoPJyVn"
+
+[option]
+optional = true
+default = true
+description = "Adds a mod menu..you know what this does"

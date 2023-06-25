@@ -11,3 +11,8 @@ hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
 [update.modrinth]
 mod-id = "PtjYWJkn"
 version = "MTxUvPFz"
+
+[option]
+optional = true
+default = true
+description = "Adds extra features to Sodium"

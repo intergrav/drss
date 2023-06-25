@@ -1,0 +1,18 @@
+name = "Visuality"
+filename = "visuality-0.5.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/TrPcZLjs/visuality-0.5.6.jar"
+hash-format = "sha1"
+hash = "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
+
+[update]
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "TrPcZLjs"
+
+[option]
+optional = true
+default = true
+description = "Adds extra particles and stuff idk I'm too tired to write this honestly but I will anyway"

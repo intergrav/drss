@@ -53,6 +53,16 @@ file = "config/yosbr/options.txt"
 hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d82632492d26035a5cc8363e66cecb11c6567fed76d1e2e2c55c176efe317c55"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "de1ba794907363fdec833e4273a76c65d51fad1b0f7be1670b8ac128ab9ac052"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -129,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+hash = "529a8e3f8904e26b30025d8d94ef313623d11443c90ca9f1f93f8c49c0b14d4d"
 metafile = true
 
 [[files]]
@@ -189,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+hash = "bec831d197eebeab5aa51999f099f508beaca79faf4b4cd26d375c102317b049"
 metafile = true
 
 [[files]]
@@ -215,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "03191d93838921d6267303721f3b769bb338f6baf5089af61f47c8bf09fdd088"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "258330f296aeea3186b29be09db59ced72a9fa148a9a45e13658812a5ef74f2f"
 metafile = true
 
 [[files]]

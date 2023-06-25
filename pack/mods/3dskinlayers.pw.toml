@@ -1,0 +1,18 @@
+name = "3D Skin Layers"
+filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
+hash-format = "sha1"
+hash = "2d5587e0ad79685bd3fdd369d6b0d6d3c7b56bcf"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "JHapWF9O"
+
+[option]
+optional = true
+default = true
+description = "It adds 3D skin layers :moyai:"
