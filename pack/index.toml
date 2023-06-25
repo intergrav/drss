@@ -78,6 +78,11 @@ hash = "d82632492d26035a5cc8363e66cecb11c6567fed76d1e2e2c55c176efe317c55"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "de1ba794907363fdec833e4273a76c65d51fad1b0f7be1670b8ac128ab9ac052"
 metafile = true
