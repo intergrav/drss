@@ -33,12 +33,8 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
-file = "config/yosbr/config/immersive_portals_fabric.json"
-hash = "2a4649a869ca2074372468e7de623126486a0d8c3c0a5d69d90708f5ee3e9854"
-
-[[files]]
 file = "config/yosbr/config/mod-loading-screen/background.png"
-hash = "f74218d56e4c22471f56d86854a81f2592f96bb548ee1a7348ff8a83a024902d"
+hash = "4b097f08a7dcb8d18015dc5d540b9f1d3a581012b9516abccfde30dcc764404e"
 
 [[files]]
 file = "config/yosbr/config/mod-loading-screen/readme.txt"
@@ -197,18 +193,13 @@ hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "5dd1a25c488a1cab67d33037fd2d3483404fdfd01aa8bdef8c0b0aea99096475"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c5fbe2c43a95f4c3cef26892b9466b56db19d230f546b6fc9677f13debff4adf"
+hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
