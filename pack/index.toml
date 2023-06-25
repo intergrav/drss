@@ -161,6 +161,11 @@ hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "c64cf4976a21b8ffbc25032c4b4e7412e1330040dda50b207ef040abf7291a80"
 metafile = true
