@@ -217,6 +217,11 @@ hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
+file = "mods/lilylib.pw.toml"
+hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
