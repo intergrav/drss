@@ -21,7 +21,7 @@
   "reducedPortalRendering": false,
   "visibilityPrediction": true,
   "netherPortalOverlay": false,
-  "scaleLimit": 8,
+  "scaleLimit": 4,
   "easeCreativePermission": true,
   "easeCommandStickPermission": false,
   "enableDatapackPortalGen": true,

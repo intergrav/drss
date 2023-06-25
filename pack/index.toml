@@ -34,7 +34,7 @@ hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/yosbr/config/immersive_portals_fabric.json"
-hash = "d427154447fcf05dc26fa97e0c4962161cc62dc13490bea6f3b06d36072db862"
+hash = "80d15460d68a910da56296c2ac5dddf11d9ece978ed0f2c1f2fb1fcd5e272c9f"
 
 [[files]]
 file = "config/yosbr/config/mod-loading-screen/background.png"
