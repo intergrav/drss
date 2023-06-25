@@ -15,4 +15,4 @@ version = "qZkbcILO"
 [option]
 optional = true
 default = true
-description = "Lightweight mod that adds some optional skins - not recommended to disable as some skins might look weird without it"
+description = "Lightweight mod that adds some optional skins - not recommended to disable as some skins might look weird without it, this does not have a performance impact anyways"
