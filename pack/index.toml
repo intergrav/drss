@@ -142,6 +142,11 @@ hash = "df453f0bbbfc255a6f8ca1e5490f40bbe74fe5db125b9ec38337145307148060"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -304,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/rules.pw.toml"
 hash = "833676cdccbf2152e2b3bc6b1f909c1ef25a81d75619a929a6283296a9853943"
-metafile = true
-
-[[files]]
-file = "mods/scriptor-magicae.pw.toml"
-hash = "3f3fe2b46adf08aad787c2075b295aa3746b7f39d71a5b81b15f12ba7bfea7a7"
 metafile = true
 
 [[files]]
