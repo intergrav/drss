@@ -1,0 +1,18 @@
+{
+    "rules" : [
+        {
+            "description" : "rule 1: don't cause problems",
+            "title" : "Rule 1"
+        },
+        {
+            "description" : "rule 2: don't cheat",
+            "title" : "Rule 2"
+        },
+        {
+            "description" : "if you experience motion sickness, turn off Do a Barrel Roll in Mod Menu",
+            "title" : "Warning"
+        }
+    ],
+    "rule_schema" : "%rule_description%",
+    "rules_header" : ""
+}

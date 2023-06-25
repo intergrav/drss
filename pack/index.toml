@@ -9,6 +9,10 @@ file = "config/mod-loading-screen/readme.txt"
 hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
 
 [[files]]
+file = "config/rules.json"
+hash = "6cc4ae0bd2089a1c28de531753dd983f0282213c449d75082ede3752acc2e0a1"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
