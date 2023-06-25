@@ -9,10 +9,6 @@ file = "config/mod-loading-screen/readme.txt"
 hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
 
 [[files]]
-file = "config/rules.json"
-hash = "6cc4ae0bd2089a1c28de531753dd983f0282213c449d75082ede3752acc2e0a1"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
@@ -51,6 +47,10 @@ hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
+
+[[files]]
+file = "config/yosbr/config/rules.json"
+hash = "0339afafab7d6314038ed710547929891d7dc651bc60bdfe665bd34f3aade05e"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
