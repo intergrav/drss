@@ -1,13 +1,13 @@
 name = "Rules"
-filename = "rules-1.0.1+1.19.jar"
+filename = "rules-2.0.0+1.19.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4a1Rhkhp/versions/XR7egoVc/rules-1.0.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/4a1Rhkhp/versions/ZrhRQxmz/rules-2.0.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "a98e6dfc79083b2b8adc9dc297b6d3632825f6fe"
+hash = "0892d8e4eebb884805c36d96e658d3da3d0c5c54"
 
 [update]
 [update.modrinth]
 mod-id = "4a1Rhkhp"
-version = "XR7egoVc"
+version = "ZrhRQxmz"
