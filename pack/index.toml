@@ -5,6 +5,10 @@ file = "config/quilt-loader-overrides.json"
 hash = "1c3b81bb46c09f000023d6bc6a0be9a7d0ea3b4f36d188183dbbe16bacd9593d"
 
 [[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "44f5acd01e27d30c44ca0885013cc88823316c592a7fda239d854c4d72eb8578"
 
@@ -104,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj.pw.toml"
 hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
