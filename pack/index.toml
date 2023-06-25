@@ -112,6 +112,11 @@ hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "1c446e3d4c73d31e94a2976e2864d037905e36f2086c8a9fa8c124e3a7680d6e"
 metafile = true
@@ -274,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "b48b9d6bc4a27e6cfeb53e7404099ec4a72be0996a71088aec6440fff55fcc90"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "edb037a3ab5d43050213db955c9814fbe1fdbd0144b83b6b7b0f7a2f7bc03e7e"
 metafile = true
 
 [[files]]
