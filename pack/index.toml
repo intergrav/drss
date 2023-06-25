@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/quilt-loader-overrides.json"
-hash = "1c3b81bb46c09f000023d6bc6a0be9a7d0ea3b4f36d188183dbbe16bacd9593d"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
@@ -197,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c79039a1cf16350cfed1792e1b2bb7e6a01b0a81492c8a8aa5c4fbf53b4c4b00"
+hash = "c5fbe2c43a95f4c3cef26892b9466b56db19d230f546b6fc9677f13debff4adf"
 metafile = true
 
 [[files]]

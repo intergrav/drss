@@ -1,18 +1,13 @@
 name = "Iris Shaders"
-filename = "iris-mc1.19.2-1.6.4.jar"
+filename = "iris-mc1.19.2-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/9YEwbzW6/iris-mc1.19.2-1.6.4.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/61raaF2M/iris-mc1.19.2-1.4.1.jar"
 hash-format = "sha1"
-hash = "2420090afb4c08cc82614c26b82c6f3958f06ad8"
+hash = "0abc560f6a6603fc0a63d99ebb06200fbe3837f2"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "9YEwbzW6"
-
-[option]
-optional = true
-default = true
-description = "Adds OptiFine shader support - you'll have to supply your own shader"
+version = "61raaF2M"
