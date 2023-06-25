@@ -15,4 +15,4 @@ version = "ZZRvmbyH"
 [option]
 optional = true
 default = true
-description = "Adds a fullscreen map, works without Xaero's Minimap but minimap is recommended"
+description = "Adds a fullscreen map, works without Xaero's Minimap but minimap is recommended - disable if having performance issues or prefer JourneyMap"
