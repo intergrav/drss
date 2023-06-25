@@ -231,11 +231,6 @@ hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
-metafile = true
-
-[[files]]
 file = "mods/player-roles.pw.toml"
 hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
 metafile = true
