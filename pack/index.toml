@@ -198,6 +198,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/solid_mobs.pw.toml"
+hash = "fb4896d487fa43079b48f7b0ecaa82c8a16acad039a47a42168f02379c1c5be1"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true

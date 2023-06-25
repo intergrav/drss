@@ -1,0 +1,13 @@
+name = "Solid Mobs"
+filename = "solid_mobs-1.6-fabric1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uEXYxtEF/versions/GO4BfyF1/solid_mobs-1.6-fabric1.19.jar"
+hash-format = "sha1"
+hash = "d95e447c6991877988e093ce571460ba31cc9030"
+
+[update]
+[update.modrinth]
+mod-id = "uEXYxtEF"
+version = "GO4BfyF1"
