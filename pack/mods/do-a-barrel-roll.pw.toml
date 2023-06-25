@@ -11,8 +11,3 @@ hash = "602c778f113e0d103756671d9f5a517b8c782220"
 [update.modrinth]
 mod-id = "6FtRfnLg"
 version = "2GZpcF7N"
-
-[option]
-optional = true
-default = true
-description = "Adds Microsoft Flight Simulator physics to the elytra. May cause motion sickness"
