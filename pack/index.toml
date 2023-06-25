@@ -127,6 +127,11 @@ hash = "4f6fbbae9d8f5cb6db33e33557dd5fcf0e4653f0cc94f89eebefb7124a721164"
 metafile = true
 
 [[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "cc611bba2c849ed11f8290772073db6c0b547795623c86ff58cd3b3a37225a6b"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -172,6 +177,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "a1c33d8c55a535adf0bfc25bec6ae2e2a62b9fdf37a836818468d18428a85723"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
 metafile = true
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "c64cf4976a21b8ffbc25032c4b4e7412e1330040dda50b207ef040abf7291a80"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
 metafile = true
 
 [[files]]
@@ -219,6 +234,16 @@ metafile = true
 [[files]]
 file = "mods/labels.pw.toml"
 hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -399,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7ccc87d7f4603cd749684b29415cad3207c8893d348f8423876f948edceac098"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]
