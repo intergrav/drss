@@ -1,6 +1,6 @@
 version = 3
 # (Default: 2) Configures the parallelism of global executor.
-globalExecutorParallelism = "1"
+globalExecutorParallelism = "6"
 
 [clientSideConfig]
 
