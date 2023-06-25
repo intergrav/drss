@@ -182,6 +182,11 @@ hash = "cc034c8f6adc9c900a9e581cfbc3db0e4126c48122e18fa43fd6b1bc9e0f53d4"
 metafile = true
 
 [[files]]
+file = "mods/elytra-swap.pw.toml"
+hash = "8c81b58a16d4ce469b02c2e891f9c50e687d201df54c5b705c8cee9f8ac8f67d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
 metafile = true
