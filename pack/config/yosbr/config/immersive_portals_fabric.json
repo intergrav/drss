@@ -5,7 +5,7 @@
   "maxPortalLayer": 5,
   "sharedBlockMeshBufferOptimization": true,
   "lagAttackProof": true,
-  "portalRenderLimit": 100,
+  "portalRenderLimit": 200,
   "indirectLoadingRadiusCap": 8,
   "enableCrossPortalSound": true,
   "compatibilityRenderMode": false,
