@@ -11,3 +11,8 @@ hash = "08f98e28057a0fbdb288c947b7871def4b18b176"
 [update.modrinth]
 mod-id = "kYq5qkSL"
 version = "gqoXgtxO"
+
+[option]
+optional = true
+default = true
+description = "Allows you to go into borderless windowed mode, off by default ingame"

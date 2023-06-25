@@ -11,3 +11,8 @@ hash = "b6c7ab6b8a13aa8c32abeb46e5c87b917a881b81"
 [update.modrinth]
 mod-id = "6AQIaxuO"
 version = "bWiIGJwf"
+
+[option]
+optional = true
+default = true
+description = "WAILA clone or something"

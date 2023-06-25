@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+hash = "1c446e3d4c73d31e94a2976e2864d037905e36f2086c8a9fa8c124e3a7680d6e"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0692059aa9d74400804eaa6030158a251296b280b91a82eb55757c2f2ccf8972"
+hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "054693e37282d6fe3c49461adfb8412d4dec5efdd757a7af6b61fe7506b04f4e"
+hash = "b79b2fc176c0e8420a722928f3aa04d6e5e32ffa8d6e60d1ade1ccd2b69ec868"
 metafile = true
 
 [[files]]
