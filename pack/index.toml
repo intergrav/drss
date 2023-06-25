@@ -138,6 +138,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
@@ -150,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "529a8e3f8904e26b30025d8d94ef313623d11443c90ca9f1f93f8c49c0b14d4d"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "cff7c19f2fd4b0140379fff54c3ad558a4321f17a946dd82b96b64a425800760"
 metafile = true
 
 [[files]]
