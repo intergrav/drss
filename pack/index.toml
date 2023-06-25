@@ -29,6 +29,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
