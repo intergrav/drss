@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/immersive-portals-2.3.2-mc1.19.2-fabric.jar",
+      "breaks": [
+        {
+          "remove": {
+            "id": "iris",
+            "versions": ["<1.4.1", ">1.4.1"]
+          }
+        }
+      ]
+    }
+  ]
+}
