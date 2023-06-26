@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-swap.pw.toml"
-hash = "8c81b58a16d4ce469b02c2e891f9c50e687d201df54c5b705c8cee9f8ac8f67d"
+hash = "07a0c136f52720029a66f3d502d198f4b092a04de2ad1cc8f7d5c728853dbb3c"
 metafile = true
 
 [[files]]
