@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Teleports the player to 0,0 in the overworld if they go to the nether roof",
+        "pack_format": 10
+    }
+}
