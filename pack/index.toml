@@ -29,10 +29,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
-
-[[files]]
 file = "config/yosbr/config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
