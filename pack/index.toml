@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "cc034c8f6adc9c900a9e581cfbc3db0e4126c48122e18fa43fd6b1bc9e0f53d4"
+hash = "d543ff7a4cb14bc31009f2529022d8757b0ed933fd96647fcbf6203c87d3967b"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "edb037a3ab5d43050213db955c9814fbe1fdbd0144b83b6b7b0f7a2f7bc03e7e"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
