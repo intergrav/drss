@@ -1,0 +1,18 @@
+name = "Bobby"
+filename = "bobby-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/5UUzbXgz/bobby-4.0.1.jar"
+hash-format = "sha1"
+hash = "3f7be87e0416ec055498324f6a5d896cdb07c589"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "5UUzbXgz"
+
+[option]
+optional = true
+default = false
+description = "Saves the chunks you visit on the client so you can have a higher render distance than the server. This is disabled by default as it can take up some disk space."
