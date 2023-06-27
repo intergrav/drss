@@ -276,8 +276,8 @@ hash = "490289b5fcace33aee61a6420f7a319bc0070c0b179b390b28dcd89c1ca0bffb"
 metafile = true
 
 [[files]]
-file = "mods/milk-plus.pw.toml"
-hash = "a8ba959ab74fa91ac78ffa0cee60bd2995e9ddbc45117935a15552baad787d49"
+file = "mods/milk_plus.pw.toml"
+hash = "d8a7ffdf32ee2a9ca81f6937252cac2111f7d648e57ec8e5d15d3796c110cbd3"
 metafile = true
 
 [[files]]
