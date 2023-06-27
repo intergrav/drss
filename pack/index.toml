@@ -201,11 +201,6 @@ hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
-metafile = true
-
-[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
 metafile = true
