@@ -1,0 +1,19 @@
+name: Build
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Build with Packwiz
+        run: |
+          cd pack
+          packwiz modrinth export
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2.3.1
+        with:
+          name: modpack
+          path: *.mrpack
