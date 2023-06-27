@@ -16,4 +16,4 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           name: modpack
-          path: *.mrpack
+          path: '*.mrpack'
