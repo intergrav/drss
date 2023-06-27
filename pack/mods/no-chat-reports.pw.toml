@@ -14,5 +14,5 @@ version = "YuX53PIA"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Disables chat reporting"

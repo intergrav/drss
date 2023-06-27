@@ -17,6 +17,10 @@ file = "config/quickconnectbutton.json5"
 hash = "47e15969b878be5cbf14f48817bd3678c9b547b302a5d85e53a2d82a7779b66f"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "c2d630790d8cb824b19129c436172a4465f5936e4680c8f18a267a1fc3b150e7"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
@@ -302,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d014c89b0348730246ae0e5120fb4377d4594547ea0e4636dbff038b0f08fb89"
+hash = "86b2d1b5e9be11512985268e4f28a85c1f4b483acdf420ec0097c1827ab92a4a"
 metafile = true
 
 [[files]]
