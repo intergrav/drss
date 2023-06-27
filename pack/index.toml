@@ -14,7 +14,7 @@ hash = "a4291e05c068a54fc5cc36756aff17b8a50be5913a8a0b45f9fc603f97067293"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
-hash = "47e15969b878be5cbf14f48817bd3678c9b547b302a5d85e53a2d82a7779b66f"
+hash = "34ed7efb3b0cd5baf17bd9fdbd445b5ef6b4b1513b9193098b94edc97cd3da09"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
