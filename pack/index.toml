@@ -246,11 +246,6 @@ hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
-file = "mods/labels.pw.toml"
-hash = "9f685b67475aff2e953ed22ed5992e259e51a324847ba84910996f7a89d79b57"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "4f611e2df3bc19bc61197953e67fdcd6552162eeb69debd047ee12c3fc4bd535"
 metafile = true
