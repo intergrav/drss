@@ -180,11 +180,6 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
-file = "mods/datapacks.pw.toml"
-hash = "ad33be4b4bbbe33665e8d270bb691027483d0f28b6d013553238731606420a93"
-metafile = true
-
-[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
 metafile = true
@@ -452,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "03191d93838921d6267303721f3b769bb338f6baf5089af61f47c8bf09fdd088"
+metafile = true
+
+[[files]]
+file = "mods/teleport-away-from-nether-roof-mod-for-drss.pw.toml"
+hash = "950d2b2317c24d5b3309b613b47cdcd150a4a1fc17bce26cd8fc881c428ef8fe"
 metafile = true
 
 [[files]]
