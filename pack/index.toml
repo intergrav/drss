@@ -156,11 +156,6 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
-file = "mods/create-origins.pw.toml"
-hash = "7e7a18ee0865cfcec8dcdadb38ccf445197ae73b863378d330e5b9a4d02b3fe5"
-metafile = true
-
-[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
 metafile = true
