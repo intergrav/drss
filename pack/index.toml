@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "bdd8c4ee167b4ed3f8461032b1d02440f58912966ccf46ba761e2578970b3f1a"
+
+[[files]]
 file = "config/mod-loading-screen/background.png"
 hash = "4b097f08a7dcb8d18015dc5d540b9f1d3a581012b9516abccfde30dcc764404e"
 
@@ -19,10 +23,6 @@ hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 [[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "44f5acd01e27d30c44ca0885013cc88823316c592a7fda239d854c4d72eb8578"
-
-[[files]]
-file = "config/yosbr/config/do_a_barrel_roll-server.json"
-hash = "bdd8c4ee167b4ed3f8461032b1d02440f58912966ccf46ba761e2578970b3f1a"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
