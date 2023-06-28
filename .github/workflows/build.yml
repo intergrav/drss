@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Cache Gradle stuff
+      - name: Cache Packwiz stuff
         uses: actions/cache@v3
         with:
           key: packwiz-${{ hashFiles('pack/index.toml') }}
