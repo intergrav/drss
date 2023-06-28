@@ -6,6 +6,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Cache Gradle stuff
+        uses: actions/cache@v3
+        with:
+          key: packwiz-${{ hashFiles('pack/index.toml') }}
+          restore-keys: packwiz-
+          path: ~/.cache
       - name: Download Packwiz
         run: |
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
@@ -19,4 +25,4 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           name: modpack
-          path: '*.mrpack'
+          path: 'pack/*.mrpack'
