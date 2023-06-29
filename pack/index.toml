@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-bluemap.pw.toml"
-hash = "4c21b988618bfb3e61597c5338b1722ad006a536f4646b903243489487cb58d5"
+hash = "23793e463aa36acfc0dfa250994fd6052410892ddffc325cb865e7bb7af4428e"
 metafile = true
 
 [[files]]

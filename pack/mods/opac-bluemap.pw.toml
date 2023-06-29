@@ -1,13 +1,13 @@
 name = "OPaC BlueMap"
-filename = "opac-bluemap-integration-1.0.0.jar"
+filename = "opac-bluemap-integration-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y2O53y8j/versions/TrhPEnh4/opac-bluemap-integration-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/y2O53y8j/versions/sFIR9GDU/opac-bluemap-integration-1.0.1.jar"
 hash-format = "sha1"
-hash = "99fbd56501db626892fda36dfe2133bdc4351b91"
+hash = "1a2025d10e6177044aca95d385c2e21f079550ef"
 
 [update]
 [update.modrinth]
 mod-id = "y2O53y8j"
-version = "TrhPEnh4"
+version = "sFIR9GDU"
