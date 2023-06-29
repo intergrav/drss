@@ -335,6 +335,11 @@ hash = "b48b9d6bc4a27e6cfeb53e7404099ec4a72be0996a71088aec6440fff55fcc90"
 metafile = true
 
 [[files]]
+file = "mods/opac-bluemap.pw.toml"
+hash = "4c21b988618bfb3e61597c5338b1722ad006a536f4646b903243489487cb58d5"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
