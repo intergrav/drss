@@ -140,6 +140,11 @@ hash = "4f6fbbae9d8f5cb6db33e33557dd5fcf0e4653f0cc94f89eebefb7124a721164"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
+metafile = true
+
+[[files]]
 file = "mods/chunky-extension.pw.toml"
 hash = "cc611bba2c849ed11f8290772073db6c0b547795623c86ff58cd3b3a37225a6b"
 metafile = true
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
 metafile = true
 
 [[files]]
