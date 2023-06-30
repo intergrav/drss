@@ -129,6 +129,18 @@ file = "emotes/cool sit.emotecraft"
 hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
 
 [[files]]
+file = "emotes/sleep1.json"
+hash = "31670d5d3ae8c755ccb453b9029f2d83a98663801799fbbba9087e5ec81815cc"
+
+[[files]]
+file = "emotes/sleep2.json"
+hash = "b303854bdcef5b27a3d9370b7e50486fcdc0f06d4aa2796d1f0d5397d5d7e7a3"
+
+[[files]]
+file = "emotes/sleep3.json"
+hash = "0a4e3dfe5fef653256cab7dd4afd6726821c426de541378fee682c3513e1cf44"
+
+[[files]]
 file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
