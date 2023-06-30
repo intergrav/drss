@@ -85,8 +85,8 @@ file = "config/yosbr/options.txt"
 hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 
 [[files]]
-file = "emotes/Bhop.emotecraft"
-hash = "70dceb4a53473558c869916dd32ae753fd32f93d08ce52ff4e3947a49aef9da9"
+file = "emotes/Bhop jump.emotecraft"
+hash = "74c074083df5a65e91c38423d81b31a7c2078d046d956c8dac63aa756fabd3b2"
 
 [[files]]
 file = "emotes/Cheer.emotecraft"
@@ -127,10 +127,6 @@ hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
 [[files]]
 file = "emotes/cool sit.emotecraft"
 hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
-
-[[files]]
-file = "emotes/sit2.emotecraft"
-hash = "42d237a1c44705d7f9b80b897bdd40c8b67b83a3b3cd0357152dbe1618999806"
 
 [[files]]
 file = "emotes/yoinky sploinky.emotecraft"
