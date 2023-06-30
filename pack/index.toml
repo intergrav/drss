@@ -205,8 +205,8 @@ hash = "d543ff7a4cb14bc31009f2529022d8757b0ed933fd96647fcbf6203c87d3967b"
 metafile = true
 
 [[files]]
-file = "mods/elytra-swap.pw.toml"
-hash = "07a0c136f52720029a66f3d502d198f4b092a04de2ad1cc8f7d5c728853dbb3c"
+file = "mods/elytra-slot.pw.toml"
+hash = "28ac85a7ddfb1f4f6b99a194085d59f6ec90cd6bf74331321e57fec3914f3b2b"
 metafile = true
 
 [[files]]
@@ -442,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/teleport-away-from-nether-roof-mod-for-drss.pw.toml"
 hash = "950d2b2317c24d5b3309b613b47cdcd150a4a1fc17bce26cd8fc881c428ef8fe"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
