@@ -85,6 +85,74 @@ file = "config/yosbr/options.txt"
 hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 
 [[files]]
+file = "emotes/Bhop jump.emotecraft"
+hash = "74c074083df5a65e91c38423d81b31a7c2078d046d956c8dac63aa756fabd3b2"
+
+[[files]]
+file = "emotes/Cheer.emotecraft"
+hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Lay on back.emotecraft"
+hash = "0889868b236fe194f933fae72c3534fc3937ddcc508570b02a48ab954b32f262"
+
+[[files]]
+file = "emotes/Orange Justice.emotecraft"
+hash = "4b78f90056842b1d9ca29fdf48284cdb49ab67526fc932fe00e0c79a6e3e3172"
+
+[[files]]
+file = "emotes/Sit.emotecraft"
+hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
+file = "emotes/Virtual insanity.emotecraft"
+hash = "6ec3070c9fc04100f386525947b3f3152d28be8584ff4042724026c6b1171af2"
+
+[[files]]
+file = "emotes/ascend.emotecraft"
+hash = "b37da97034aa3cb5ed05fe69a54347cd2db5aa0c1f964409bc2d497076502dfa"
+
+[[files]]
+file = "emotes/club penguin dance.emotecraft"
+hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
+
+[[files]]
+file = "emotes/cool sit.emotecraft"
+hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/devinsit.emotecraft"
+hash = "42ad428e5753d3fa816f412c187d3ccc71f12f7d126d2af8ed37cd2718a4cc4e"
+
+[[files]]
+file = "emotes/devinsleep1.emotecraft"
+hash = "ccea48a1eeebb31d3b3170f279d7c06e87f8f4d75d8927fea4acbc7e6b905cd9"
+
+[[files]]
+file = "emotes/devinsleep2.emotecraft"
+hash = "925d016599040cf8120fc7ff6d593966ecfcd8bcdef63fc106bc161e01d76b5b"
+
+[[files]]
+file = "emotes/devinsleep3.emotecraft"
+hash = "053aa04ef86f8090e9378b080fbdecc0549d9894c7b8b8413c9280c9580dbe48"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d82632492d26035a5cc8363e66cecb11c6567fed76d1e2e2c55c176efe317c55"
 metafile = true
@@ -115,6 +183,11 @@ hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
 metafile = true
@@ -137,6 +210,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4f6fbbae9d8f5cb6db33e33557dd5fcf0e4653f0cc94f89eebefb7124a721164"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
 
 [[files]]
@@ -212,6 +295,16 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f560f832bffbc59aa19b79781a8a39c8d0f170d56f8e660cf2b03f0c87a40067"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "b2f8b4d9db8977d5e91fae67d14cf58b61a0f395bec6e35c32d5cc081b1b5fbe"
 metafile = true
 
 [[files]]
@@ -543,6 +636,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mermod-trans-tail.zip"
+hash = "79867851cdcb5a3a157b7b70f1bbce199fbf9d9d51252ba3f22818f7973d6ac6"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
