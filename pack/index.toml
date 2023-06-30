@@ -109,6 +109,10 @@ file = "emotes/Lay on back.emotecraft"
 hash = "0889868b236fe194f933fae72c3534fc3937ddcc508570b02a48ab954b32f262"
 
 [[files]]
+file = "emotes/Orange Justice.emotecraft"
+hash = "4b78f90056842b1d9ca29fdf48284cdb49ab67526fc932fe00e0c79a6e3e3172"
+
+[[files]]
 file = "emotes/Sit.emotecraft"
 hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
 
@@ -129,16 +133,20 @@ file = "emotes/cool sit.emotecraft"
 hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
 
 [[files]]
-file = "emotes/sleep1.json"
-hash = "31670d5d3ae8c755ccb453b9029f2d83a98663801799fbbba9087e5ec81815cc"
+file = "emotes/devinsit.emotecraft"
+hash = "42ad428e5753d3fa816f412c187d3ccc71f12f7d126d2af8ed37cd2718a4cc4e"
 
 [[files]]
-file = "emotes/sleep2.json"
-hash = "b303854bdcef5b27a3d9370b7e50486fcdc0f06d4aa2796d1f0d5397d5d7e7a3"
+file = "emotes/devinsleep1.emotecraft"
+hash = "ccea48a1eeebb31d3b3170f279d7c06e87f8f4d75d8927fea4acbc7e6b905cd9"
 
 [[files]]
-file = "emotes/sleep3.json"
-hash = "0a4e3dfe5fef653256cab7dd4afd6726821c426de541378fee682c3513e1cf44"
+file = "emotes/devinsleep2.emotecraft"
+hash = "925d016599040cf8120fc7ff6d593966ecfcd8bcdef63fc106bc161e01d76b5b"
+
+[[files]]
+file = "emotes/devinsleep3.emotecraft"
+hash = "053aa04ef86f8090e9378b080fbdecc0549d9894c7b8b8413c9280c9580dbe48"
 
 [[files]]
 file = "emotes/yoinky sploinky.emotecraft"
