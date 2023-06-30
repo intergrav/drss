@@ -253,6 +253,10 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
+file = "mods/createorigins-1.1.1+1.19.2.jar"
+hash = "2eaed13e895bf135ec5ea6e90d37e2427135e4c22064facde10a7bc29f5e4b45"
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "416a132f194efbd5559776c251c9371f667c170b72ae12b71ed275f77f91c0dd"
 metafile = true
