@@ -101,8 +101,16 @@ file = "emotes/Get Griddy.emotecraft"
 hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
 
 [[files]]
+file = "emotes/Hug Blahaj.emotecraft"
+hash = "9fb2479b889c6f1ef7c7bcec7c2ac182e20eac7ccae725eb20f6f522cb02898a"
+
+[[files]]
 file = "emotes/Killed.emotecraft"
 hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Lay Blahaj.emotecraft"
+hash = "c5cb8e5009a794e1926599058d580281dbb57122365314c89dc763338395ae43"
 
 [[files]]
 file = "emotes/Lay on back.emotecraft"
@@ -115,10 +123,6 @@ hash = "5e4377b8169f4897b87e9e5df130ab5afe4cebb37987582f9f0a708e856c9a34"
 [[files]]
 file = "emotes/Sit.emotecraft"
 hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
-
-[[files]]
-file = "emotes/Virtual insanity.emotecraft"
-hash = "6ec3070c9fc04100f386525947b3f3152d28be8584ff4042724026c6b1171af2"
 
 [[files]]
 file = "emotes/ascend.emotecraft"
