@@ -576,10 +576,6 @@ hash = "e61c296aa297779459086a93d9cb8eb2528541b78cdee90c8cb1ff2ee83fa06a"
 metafile = true
 
 [[files]]
-file = "mods/webstreamer-1.3.0.jar"
-hash = "69d257fe51ba703dc0a8af172fc9f5a9591075b6caf4260b7885a39258ea3a66"
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b79b2fc176c0e8420a722928f3aa04d6e5e32ffa8d6e60d1ade1ccd2b69ec868"
 metafile = true
