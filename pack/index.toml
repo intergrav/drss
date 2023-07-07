@@ -371,6 +371,11 @@ hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
+metafile = true
+
+[[files]]
 file = "mods/lilylib.pw.toml"
 hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
 metafile = true
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/player-roles.pw.toml"
 hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
 metafile = true
 
 [[files]]
