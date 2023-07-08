@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/webstreamer-1.3.0.jar"
-hash = "08bae667be2a0707a910565b040ef1e21a9ef0776e4f35250c9cf71c1b6cf398"
+hash = "cfd0ac0709a27e010fb79edaf8a1a5d3c21472879280dae764618042930bddd8"
 
 [[files]]
 file = "mods/wthit.pw.toml"
