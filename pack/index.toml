@@ -5,6 +5,10 @@ file = "config/do_a_barrel_roll-server.json"
 hash = "bdd8c4ee167b4ed3f8461032b1d02440f58912966ccf46ba761e2578970b3f1a"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "35772bb97833a7597571fe22556657ba2e884772f33a974a62ffe156d7ca5eb3"
+
+[[files]]
 file = "config/mod-loading-screen/background.png"
 hash = "4b097f08a7dcb8d18015dc5d540b9f1d3a581012b9516abccfde30dcc764404e"
 
