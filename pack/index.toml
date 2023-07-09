@@ -162,6 +162,11 @@ hash = "d82632492d26035a5cc8363e66cecb11c6567fed76d1e2e2c55c176efe317c55"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "7927fbd305ce22ed621321265d7de8ac231b4e0105fd918dd61173848b13936d"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "b2807f73b75d5b6f73332f54f0fde9c529c97bdda7f7110b5e47785405bb69cd"
 metafile = true
