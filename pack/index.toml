@@ -300,11 +300,6 @@ hash = "cdbff2bccd0290a59213cd0b70d5ba35c12283982717fc80a850d54d523adbad"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
-metafile = true
-
-[[files]]
 file = "mods/effective.pw.toml"
 hash = "d543ff7a4cb14bc31009f2529022d8757b0ed933fd96647fcbf6203c87d3967b"
 metafile = true
