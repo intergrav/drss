@@ -1,0 +1,13 @@
+name = "Create Track Map"
+filename = "create-track-map-1.4+mc1.19.2-fabric-create-0.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxoNIjg6/versions/mShUkLiH/create-track-map-1.4%2Bmc1.19.2-fabric-create-0.5.1.jar"
+hash-format = "sha1"
+hash = "3177b881b7e28a103f91479517108410d5e638dc"
+
+[update]
+[update.modrinth]
+mod-id = "gxoNIjg6"
+version = "mShUkLiH"

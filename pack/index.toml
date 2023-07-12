@@ -271,6 +271,11 @@ hash = "d548306cf5dc3860d8c2fff876c41fa4ba65a7517f14c0c4fd651055ab3b6b8d"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
+metafile = true
+
+[[files]]
 file = "mods/createorigins-1.1.1+1.19.2.jar"
 hash = "2eaed13e895bf135ec5ea6e90d37e2427135e4c22064facde10a7bc29f5e4b45"
 
