@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
+hash = "0a8cb376a0a64e4344a32700f516e6cfd18eeb0c65f515ddc3105aa3a202add8"
 metafile = true
 
 [[files]]
@@ -332,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "2d529ef5a4753d8c71c845bc8b5570c5a9a63b3d2449643c4590fd57ac23ed16"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
@@ -487,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
