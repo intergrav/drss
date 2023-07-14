@@ -1,6 +1,6 @@
 {
 	// The address to connect to when the button is pressed.
-	"address": "drss.meloncu.be",
+	"address": "raknet;drss.meloncu.be",
 	// The name of the button.
 	"connectButton": "Connect",
 	// The side to align the button to. ('LEFT'/'RIGHT')
