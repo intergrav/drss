@@ -166,6 +166,10 @@ hash = "d82632492d26035a5cc8363e66cecb11c6567fed76d1e2e2c55c176efe317c55"
 metafile = true
 
 [[files]]
+file = "mods/QuickConnectButton-1.2.1.jar"
+hash = "c6377e9f6ae09544e43b80ff1b984c4c01c7c8ff98104b3d1149f5edb4cac11f"
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "7927fbd305ce22ed621321265d7de8ac231b4e0105fd918dd61173848b13936d"
 metafile = true
@@ -502,11 +506,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
-metafile = true
-
-[[files]]
-file = "mods/quickconnectbutton.pw.toml"
-hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
 metafile = true
 
 [[files]]
