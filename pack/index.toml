@@ -260,11 +260,6 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "5193877e240226edc991c82d4d949979ca79f779e555f79093bf3ecbca942ee4"
 metafile = true
@@ -366,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
-metafile = true
-
-[[files]]
-file = "mods/glass-armor.pw.toml"
-hash = "cb4d47ee9e13749d15b26508ec5e00ca41bafcb5f0a560ed69c550c699d4d352"
 metafile = true
 
 [[files]]
