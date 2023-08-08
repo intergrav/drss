@@ -1,18 +1,18 @@
 name = "ModernFix"
-filename = "modernfix-fabric-5.0.4+mc1.19.2.jar"
+filename = "modernfix-fabric-5.6.0+mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/lJnMKe8e/modernfix-fabric-5.0.4%2Bmc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YWxJmxJY/modernfix-fabric-5.6.0%2Bmc1.19.2.jar"
 hash-format = "sha1"
-hash = "64706bccbaa88813ba2019ec161a60a7fa6cda91"
+hash = "a9d6bb29bb6688f01224062842c8d3577c8c71e1"
 
 [update]
 [update.modrinth]
 mod-id = "nmDcB62a"
-version = "lJnMKe8e"
+version = "YWxJmxJY"
 
 [option]
 optional = true
-default = true
 description = "Improvements to boot times and memory usage, but has some slightly intrusive optimizations so disable if you experience issues"
+default = true

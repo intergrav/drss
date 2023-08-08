@@ -1,13 +1,13 @@
 name = "Create Enchantment Industry Fabric"
-filename = "create_enchantment_industry-beta-0.1.9.jar"
+filename = "create_enchantment_industry-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AEZO385x/versions/4jrTQQ0v/create_enchantment_industry-beta-0.1.9.jar"
+url = "https://cdn.modrinth.com/data/AEZO385x/versions/2JdzS4Rx/create_enchantment_industry-1.0.0.jar"
 hash-format = "sha1"
-hash = "96e6f20b8c9aee8838715d631614d9763191dc21"
+hash = "74077847170b33b3cc23519d092737c0ed173eb8"
 
 [update]
 [update.modrinth]
 mod-id = "AEZO385x"
-version = "4jrTQQ0v"
+version = "2JdzS4Rx"
