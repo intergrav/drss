@@ -11,3 +11,8 @@ hash = "62d7cc2754bd6c911233181eaeb42c68fe5437c0"
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
 version = "ro03SDgE"
+
+[option]
+optional = true
+default = true
+description = "Display player heads in-line with chat messages"
