@@ -1,18 +1,18 @@
 name = "Borderless Mining"
-filename = "borderless-mining-1.1.5+1.19.jar"
+filename = "borderless-mining-1.1.8+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.5%2B1.19/borderless-mining-1.1.5%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "08f98e28057a0fbdb288c947b7871def4b18b176"
+hash = "dbdb8a0600679f3c76480ae5d0995e2334773ce3"
 
 [update]
 [update.modrinth]
 mod-id = "kYq5qkSL"
-version = "gqoXgtxO"
+version = "lhrW53q7"
 
 [option]
 optional = true
-default = true
 description = "Allows you to go into borderless windowed mode, off by default ingame"
+default = true

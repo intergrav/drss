@@ -1,13 +1,13 @@
 name = "Server Tick"
-filename = "servertick-mc1.19-1.7.jar"
+filename = "servertick-mc1.20-1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar"
+url = "https://cdn.modrinth.com/data/nEKRNLz9/versions/IOYJbkmQ/servertick-mc1.20-1.8.jar"
 hash-format = "sha1"
-hash = "085ec09c03d0b8a1e02bbc87227839a03cd2ae43"
+hash = "4c2c0bd86f28e9b6c3b44a1bc1a0105c51813a7a"
 
 [update]
 [update.modrinth]
 mod-id = "nEKRNLz9"
-version = "4k2nheZb"
+version = "IOYJbkmQ"

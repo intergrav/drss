@@ -3,11 +3,11 @@ filename = "chunky-extended-2.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/khVOwbfw/chunky-extended-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/pAsPVh3l/chunky-extended-2.0.0.jar"
 hash-format = "sha1"
-hash = "9f46efdd3862b79c0cf75f70869807aba971b5a0"
+hash = "a791061be1feeb4130c04c1bd38606bccbf723b1"
 
 [update]
 [update.modrinth]
 mod-id = "LFJf0Klb"
-version = "khVOwbfw"
+version = "pAsPVh3l"

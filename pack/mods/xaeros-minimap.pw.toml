@@ -1,18 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.5.0_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_23.8.2_Fabric_1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/H5ELiTaK/Xaeros_Minimap_23.5.0_Fabric_1.19.1.jar"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iztrg4XH/Xaeros_Minimap_23.8.2_Fabric_1.20.jar"
 hash-format = "sha1"
-hash = "e8fa93508c225547251955156055c70ebcc34759"
+hash = "5eb5c11901bdedbcf69cf8beac754644dfc9c123"
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
-version = "H5ELiTaK"
+version = "iztrg4XH"
 
 [option]
 optional = true
-default = true
 description = "Adds a minimap - disable if having performance issues or prefer JourneyMap"
+default = true

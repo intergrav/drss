@@ -1,13 +1,13 @@
 name = "drss"
 author = "intergrav"
-version = "1.0.0+1.19.2.quilt"
+version = "1.0.0+1.20.1.quilt"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a7e6f82895aadff7d4152970e09135102f6170742e62201730117de1f3668a49"
+hash = "a4716ad6a008e2744b9f8d7cf44b0b2f56a1046ae89840005f8bced76300ccf4"
 
 [versions]
-minecraft = "1.19.2"
-quilt = "0.19.2"
+minecraft = "1.20.1"
+quilt = "0.20.2"

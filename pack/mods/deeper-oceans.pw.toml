@@ -1,13 +1,13 @@
 name = "Deeper Oceans"
-filename = "deeper-oceans-mc1.19-v1.0.1a.jar"
+filename = "deeper-oceans-mc1.20-v1.0.1a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yqHsPROA/versions/jEMZTGMq/deeper-oceans-mc1.19-v1.0.1a.jar"
+url = "https://cdn.modrinth.com/data/yqHsPROA/versions/ueFgrdpD/deeper-oceans-mc1.20-v1.0.1a.jar"
 hash-format = "sha1"
-hash = "21dc5776cd71e76c0ada8c52668c0245b588e43c"
+hash = "c8f8a36896675b09ed0f008c49112ae962132e6f"
 
 [update]
 [update.modrinth]
 mod-id = "yqHsPROA"
-version = "jEMZTGMq"
+version = "ueFgrdpD"
