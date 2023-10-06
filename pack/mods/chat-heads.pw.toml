@@ -1,18 +1,18 @@
 name = "Chat Heads"
-filename = "chat_heads-0.10.16-fabric-1.19.2.jar"
+filename = "chat_heads-0.10.22-fabric-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5FVM8MBd/chat_heads-0.10.16-fabric-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/VltVfTJV/chat_heads-0.10.22-fabric-1.19.2.jar"
 hash-format = "sha1"
-hash = "434865d6082e3c52c065f871deae6354f435488f"
+hash = "fd46cf87935e383ad669d40dd22a38112bd83f1e"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "5FVM8MBd"
+version = "VltVfTJV"
 
 [option]
 optional = true
-default = true
 description = "Display player heads in-line with chat messages"
+default = true

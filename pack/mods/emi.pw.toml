@@ -1,18 +1,18 @@
 name = "EMI"
-filename = "emi-1.0.5+1.19.2+fabric.jar"
+filename = "emi-1.0.21+1.19.2+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/gXppZuUk/emi-1.0.5%2B1.19.2%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/WYq0OMLK/emi-1.0.21%2B1.19.2%2Bfabric.jar"
 hash-format = "sha1"
-hash = "a6c5b43029fa8bb4cce5d1764585773f73c61794"
+hash = "f810f08ad5481e1bbf722d647a281894a5623ac1"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "gXppZuUk"
+version = "WYq0OMLK"
 
 [option]
 optional = true
-default = true
 description = "Recipe viewer"
+default = true
